@@ -1,0 +1,6 @@
+:root {
+  --black-color: 6,6,6;
+  --primary-color: #cc2b5e;
+  --secondary-color: #753a88;
+  --background-primary: rgba(var(--black-color))
+}
